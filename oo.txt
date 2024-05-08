@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+AD PAGE
+</title>
+<link rel="stylesheet" href="project1.css">
+</head>
+<body>
+<header>
+<center><h1>The Amazing Product</h1>
+<p>Discover the latest innovation!</p>
+</center>
+</header><hr>
+ 
+<br>
+ 
+
+<section class="main-content1" >
+<div class="product-image1">
+<a href="https://amzn.in/d/8zbgJJs"> <img src="C:\Users\Naveed\Desktop\download
+ 
+3.jfif">
+</div>
+<div class="naruto">
+<h2> <span>Product Name:</span>Fastract Revoltt FS1 Pro</h2>
+<h2> <span>About: </span>World's First,1.96"Super AMOLED|High Resolution
+BT Calling
+</h2>
+<h3 class="one">
+<span> PRICE: </span> ₹2,499 <span class="two">68% off</span>
+</h3>
+<nav>
+<a href="https://amzn.in/d/8zbgJJs"> for more details touch this</a>
+</nav>
+</div>
+</section><hr>
+<hr>
+
+
+4
+ 
+
+<section class="main-content1">
+<div class="product-image1">
+<a	href="https://amzn.in/d/1NU6oM9">	<img src="C:\Users\Naveed\Desktop\download 4.jfif">
+</div>
+<div class="naruto">
+<h2><span>Product name: </span>Fastract Limitless FS1+</h2>
+<h2> <span>About: </span>2.01"Ultra UV display
+|950 Nits Brightness<br>Nitro Fast Charging
+</h2>
+<h3 class="one">
+<span> Price: </span>₹2,999 <span class="two">49% off</span>
+</h3>
+<nav>
+<a href="https://amzn.in/d/1NU6oM9">for more details touch this</a>
+</nav>
+</div>
+</section><hr>
+<hr>
+<section class="main-content1">
+<div class="product-image1">
+<a	href="https://amzn.in/d/fmvWHev">	<img src="C:\Users\Naveed\Desktop\download.jfif">
+</div>
+<div class="naruto">
+<h2>
+<span> Product name: </span>NoiseFit Halo
+</h2>
+<h2> <span>About: </span>1.43"ameoled display, Round Dial Smart watch,Premium Metallic Build
+</h2>
+<h3 class="one">
+<span>Price:</span> ₹2,799 <span class="two"> 35% off</span>
+</h3>
+<nav>
+<a href="https://amzn.in/d/fmvWHev">for more details touch this</a>
+</nav>
+</div>
+</section><hr>
+<hr>
+<section class="main-content1">
+ 
+
+<div class="product-image1">
+<a	href="https://amzn.in/d/fW4b2yT">	<img src="C:\Users\Naveed\Desktop\71Q8czKqSIL.AC_SS300.jpg">
+</div>
+<div class="naruto">
+<h2>
+<span> Product name: </span>NoiseFit Pulse 2 Max
+</h2>
+<h2> <span>About: </span>1.85"Display,10 Days Battery 550NITS Brightness,100 Sports Modes
+</h2>
+<h3 class="one">
+<span>Price:</span> ₹1,299 <span class="two"> 22% off</span>
+</h3>
+<nav>
+<a href="https://amzn.in/d/fW4b2yT">for more details touch this</a>
+</nav>
+</div>
+</section>
+<hr>
+<hr>
+<section class="main-content1">
+<div class="product-image1">
+<a	href="https://amzn.in/d/cmEuTlT">	<img src="C:\Users\Naveed\Desktop\firebolt.jpg">
+</div>
+<div class="naruto">
+<h2>
+<span> Product name: </span>Fire-Boltt encore
+</h2>
+<h2> <span>About: </span>1.83" Full touch Dispalay,240*284 PPI IP67 Water Resistant,10=Days Battery Life
+</h2>
+<h3 class="one">
+<span>Price:</span> ₹1,499 <span class="two"> 12% off</span>
+</h3>
+<nav>
+<a href="https://amzn.in/d/cmEuTlT">for more details touch this</a>
+</nav>
+</div>
+</section><hr>
+
+
+
+6
+ 
+
+<hr>
+<section class="main-content1">
+<div class="product-image1">
+<a	href="https://amzn.in/d/fW4b2yT">	<img src="C:\Users\Naveed\Desktop\71Q8czKqSIL.AC_SS300.jpg">
+</div>
+<div class="naruto">
+<h2>
+<span> Product name: </span>NoiseFit Pulse 2 Max
+</h2>
+<h2> <span>About: </span>1.85"Display,10 Days Battery 550NITS Brightness,100 Sports Modes
+</h2>
+<h3 class="one">
+<span>Price:</span> ₹1,299 <span class="two"> 22% off</span>
+</h3>
+<nav>
+<a href="https://amzn.in/d/fW4b2yT">for more details touch this</a>
+</nav>
+</div>
+</section><hr>
+<hr>
+<section class="main-content1">
+<div class="product-image1">
+<a href="https://amzn.in/d/fW4b2yT">
+<img src="C:\Users\Naveed\Desktop\71Q8czKqSIL.AC_SS300.jpg">
+</div>
+<div class="naruto">
+<h2>
+<span> Product name: </span>NoiseFit Pulse 2 Max
+</h2>
+<h2> <span>About: </span>1.85"Display,10 Days Battery 550NITS Brightness,100 Sports Modes
+</h2>
+<h3 class="one">
+<span>Price:</span> ₹1,299 <span class="two"> 22% off</span>
+</h3>
+<nav>
+<a href="https://amzn.in/d/fW4b2yT">for more details touch this</a>
+</nav>
+</div>
+ 
+
+</section>  </body>
+</html>
+
+
+CSS
+
+*{
+cursor: pointer; margin: 10; padding:15;
+}
+.main-content1{ display: flex; margin-top: 50px; padding-right:5px ; padding-left: 5px;
+}
+.two{
+color:yellow;
+}
+span{
+color:red;
+}
+img{
+border-radius: 50px; width: 200px;
+}
+.naruto{
+margin-left: 100px;
+}
